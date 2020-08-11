@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1575518488 source:c:\users\caio\desktop\projetoed\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1575485864 c:\users\caio\desktop\projetoed\lista.h
+
+1575517335 source:c:\users\caio\desktop\projetoed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
